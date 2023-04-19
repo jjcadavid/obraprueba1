@@ -252,7 +252,7 @@ class BotonMAD {
         this.sonido.stop();
       }
     } else {
-      fill(200, 0, 0);
+      fill(200, 200, 0);
     }
     circle(w * 0.5 + wEmergente / 2, h * 0.5 - wEmergente / 2, this.tamCerrar);
     fill(0);
