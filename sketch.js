@@ -273,6 +273,6 @@ class BotonMAD {
   setColorTextoBoton(r, g, b) {
     this.colorTextBotonR = r;
     this.colorTextBotonG = g;
-    this.colorTextBotonB = b;
+    this.colorTextBotonB = b; 
   }
 }
